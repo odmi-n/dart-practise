@@ -1,0 +1,13 @@
+name: hamburger_menu_sample
+description: Simple Flutter sample showing a hamburger menu with Drawer widgets.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
